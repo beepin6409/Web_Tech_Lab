@@ -1,0 +1,13 @@
+2.  Write a program to overload subtract method with various parameters in a class in
+Java
+
+5.  Write a program in java to input and display the details of n number of
+students having roll, name and cgpa as data members. Also display the name of the
+student having lowest cgpa.
+
+6.  Write a program to calculate area according to user input, whether it is circle, square
+or triangle (Menu Driven).
+
+7.  Write a program in Java to define a class Number with appropriate data
+members and member functions to input n number of integers and swap the biggest
+and smallest elements. Use member functions read(), swap() and display().
